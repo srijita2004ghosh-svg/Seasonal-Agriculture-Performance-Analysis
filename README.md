@@ -1,4 +1,4 @@
-# 🌾 Seasonal Agriculture Performance Analysis
+# Seasonal Agriculture Performance Analysis
 
 ## About the Project
 
@@ -10,7 +10,7 @@ The purpose of the project is to transform raw agricultural records into meaning
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 The analysis was carried out with the following goals:
 
